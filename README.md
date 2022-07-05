@@ -1,1 +1,1 @@
-# Ritik-Chaudhari
+# Stock Price Prediction
